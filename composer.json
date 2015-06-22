@@ -1,0 +1,14 @@
+{
+  "name": "sleepr-php-client",
+  "require-dev": {
+    "phpunit/phpunit": "4.7.*"
+  },
+  "autoload": {
+    "psr-0": {
+      "Sleepr": "src/"
+    }
+  },
+  "require": {
+    "guzzle/guzzle": "~3.9"
+  }
+}

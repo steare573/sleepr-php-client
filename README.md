@@ -1,5 +1,4 @@
 # sleepr-php-client
-Expect a stable version sometime near the end of July.
 Configuration based rest client that makes hitting your common endpoints simple and easy.  Once you have your endpoints and data metadata configured, you should only need to fire up the client and shoot off your request with no intimate knowledge of your request logic.
 
 ##Features
